@@ -28,6 +28,7 @@ Estimer avec précision le nombre de cycles restants avant la défaillance d'un 
 
 Ce projet suit la convention [Conventional Commits](https://www.conventionalcommits.org/) :
 
+- `eda:` — nouvelle analyse
 - `feat:` — nouvelle fonctionnalité
 - `fix:` — correction de bug
 - `docs:` — documentation
